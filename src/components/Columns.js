@@ -4,7 +4,7 @@ function Columns() {
   return (
 <div className="columns">
   <div className="column">
-    <h2 className="column-title">US Visit Visa</h2>
+    <h2 className="column-title">USA Visa</h2>
     <p className="column-text">
       Planning a trip to the United States?<br/>
       Whether it's for tourism, family visits, or business,
@@ -14,7 +14,7 @@ function Columns() {
     </p>
   </div>
   <div className="column">
-    <h2 className="column-title">UK Visit Visa</h2>
+    <h2 className="column-title">UK Visa</h2>
     <p className="column-text">
       Exploring the UK for leisure, family reunions, or business meetings?<br/>
       We assist you with every step, ensuring your application meets all requirements for a
