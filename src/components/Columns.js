@@ -27,8 +27,13 @@ function Columns() {
     <h2 className="column-title">USMLE/Electives</h2>
     <p className="column-text">
       Dreaming of practicing medicine in the US? <br/>
-      The USMLE is a crucial step for medical graduates, and we provide expert guidance on registration,
-      preparation resources, and application.
+
+      The USMLE is a crucial step for medical graduates, and we provide expert guidance on registration, 
+      top preparation resources, and the application process.
+
+      We don’t stop there—we also help you find elective studies to strengthen your experience and boost
+      your chances of success in this competitive exam. Let’s make your medical career in the
+      U.S. a reality
         <br  />
         <br  />
       We support you achieve success in this competitive exam.
