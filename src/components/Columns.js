@@ -29,14 +29,12 @@ function Columns() {
       Dreaming of practicing medicine in the US? <br/>
 
       The USMLE is a crucial step for medical graduates, and we provide expert guidance on registration, 
-      top preparation resources, and the application process.
+      resources, and the application process.
 
-      We don’t stop there—we also help you find elective studies to strengthen your experience and boost
-      your chances of success in this competitive exam. Let’s make your medical career in the
-      U.S. a reality
+      We don’t stop there—we also help you find elective studies to strengthen your experience and profile.
         <br  />
         <br  />
-      We support you achieve success in this competitive exam.
+        Let’s make your medical career in the U.S. a reality
     </p>
   </div>
 </div>
