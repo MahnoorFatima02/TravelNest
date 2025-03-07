@@ -24,7 +24,7 @@ function Columns() {
     </p>
   </div>
   <div className="column">
-    <h2 className="column-title">USMLE</h2>
+    <h2 className="column-title">USMLE/Electives</h2>
     <p className="column-text">
       Dreaming of practicing medicine in the US? <br/>
       The USMLE is a crucial step for medical graduates, and we provide expert guidance on registration,
