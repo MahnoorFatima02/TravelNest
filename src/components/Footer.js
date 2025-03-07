@@ -7,6 +7,8 @@ function Footer() {
         <h3>Contact Us</h3>
         <div className="footer-links">
           <a href="mailtotravelnestnet@gmail.com">travelnestnet@gmail.com</a>
+          <a href="tel:+923226913350">+92 322 6913350</a>
+          <a href="instagram.com/travelnestnet">Instagram</a>
           <a href="#">Lahore, Pakistan</a>
         </div>
         <div className="footer-info">
