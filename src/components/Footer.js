@@ -8,7 +8,7 @@ function Footer() {
         <div className="footer-links">
           <a href="mailtotravelnestnet@gmail.com">travelnestnet@gmail.com</a>
           <a href="tel:+923226913350">+92 322 6913350</a>
-          <a href="instagram.com/travelnestnet">https://www.instagram.com/travelnestnet/</a>
+          <a href="instagram.com/travelnestnet">instagram.com/travelnestnet/</a>
           <a href="#">Lahore, Pakistan</a>
         </div>
         <div className="footer-info">
